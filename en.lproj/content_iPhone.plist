@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imageKey</key>
+		<string>black_babe.jpg</string>
+		<key>nameKey</key>
+		<string>Number One</string>
+	</dict>
+	<dict>
+		<key>imageKey</key>
+		<string>FappTableViewController.m</string>
+		<key>nameKey</key>
+		<string>Number Two</string>
+	</dict>
+	<dict>
+		<key>imageKey</key>
+		<string>white_babe.jpg</string>
+		<key>nameKey</key>
+		<string>Number Three</string>
+	</dict>
+	<dict>
+		<key>imageKey</key>
+		<string>prada-handbag.jpg</string>
+		<key>nameKey</key>
+		<string>Number Four</string>
+	</dict>
+	<dict>
+		<key>imageKey</key>
+		<string>oriental_babe.jpg</string>
+		<key>nameKey</key>
+		<string>Number Five</string>
+	</dict>
+	<dict>
+		<key>imageKey</key>
+		<string>gucci-heels.jpg</string>
+		<key>nameKey</key>
+		<string>Number Six</string>
+	</dict>
+</array>
+</plist>
